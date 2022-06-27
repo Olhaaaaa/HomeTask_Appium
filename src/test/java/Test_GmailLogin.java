@@ -6,7 +6,7 @@ public class Test_GmailLogin extends BaseTest{
     private final GmailBO gmailBO =new GmailBO();
 
     private final String recipient = "olha.bednarska.24@gmail.com";
-    private final String subject = "Appium test "; // + getSystemCurrentDate();
+    private final String subject = "Appium test ";
     private final String body = "Epam HomeWork";
 
     @Test
